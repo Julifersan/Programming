@@ -1,4 +1,4 @@
-# Exercise 4
+# Exercise
 ___
 
 > Crear un programa que ingrese un numero y obtenga los resultados imprimidos de sus valores multiplicados, del 1 al 20.
